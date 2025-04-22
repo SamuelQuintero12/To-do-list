@@ -20,14 +20,14 @@
   .textarea {
     width: 100%;
     padding: 0.5rem;
-    border: 1px solid #18e9aa;
+    border: 1px solid #5754ec;
     border-radius: 0.25rem;
     margin-top: 2%;
   }
   
   .button {
     width: 104%;
-    background-color: #12dda0;
+    background-color: #1215dd;
     color: rgb(241, 211, 211);
     padding: 0.5rem;
     border-radius: 0.25rem;
@@ -37,7 +37,7 @@
   }
   
   .button:hover {
-    background-color: #dd1212;
+    background-color: #12aedd;
   }
   
   .filter-buttons {
@@ -47,8 +47,8 @@
   
   .filter-button {
     padding: 0.25rem 0.75rem;
-    border: 1px solid #12dda0;
-    background-color: #12dda0;
+    border: 1px solid #1252dd;
+    background-color: #6567ee;
     border-radius: 0.25rem;
     cursor: pointer;
   }
@@ -74,16 +74,16 @@
   
   .task-title.completed {
     text-decoration: line-through;
-    color: #806b7e;
+    color: #6b6c80;
   }
   
   .task-description {
     font-size: 0.875rem;
-    color: #806b7b;
+    color: #6b6f80;
   }
 
 .cancel-button {
-    background-color: #12dda0; 
+    background-color: #1230dd; 
     color: white;
     padding: 0.5rem;
     border-radius: 0.2rem;
@@ -93,12 +93,12 @@
   }
   
   .cancel-button:hover {
-    background-color: #12dda0; 
+    background-color: #121fdd; 
   }
   
 
   .edit-button {
-    background-color: #2adfa8; 
+    background-color: #2a2ddf; 
     color: black;
     padding: 0.25rem 0.5rem;
     border-radius: 0.25rem;
@@ -110,7 +110,7 @@
     background-color: #ddb7d3; 
   }
   .delete-button {
-    background-color: #0cb380; 
+    background-color: #0c25b3; 
     margin-left: 1rem;
     color: black;
     padding: 0.25rem 0.5rem;
@@ -119,5 +119,5 @@
     transition: background-color 0.2s;
   }
   .delete-button:hover {
-    background-color: #1fdba3; 
+    background-color: #1f3bdb; 
   }
